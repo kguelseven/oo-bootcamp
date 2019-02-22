@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25474c2b-91a8-4f96-8e29-6a2027c90a19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oo_boot_camp_2019-02-18_java/META-INF/oo_boot_camp_2019-02-18_java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/oo_boot_camp_2019-02-18_java/META-INF/oo_boot_camp_2019-02-18_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="252">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -117,23 +116,6 @@
             <path>
               <item name="oo_boot_camp_2019-02-18_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oo_boot_camp_2019-02-18_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oo_boot_camp_2019-02-18_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oo_boot_camp_2019-02-18_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oo_boot_camp_2019-02-18_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oo_boot_camp_2019-02-18_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oo_boot_camp_2019-02-18_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oo_boot_camp_2019-02-18_java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,7 +137,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550831695235" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550831831912" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -315,8 +297,23 @@
       <updated>1550484662581</updated>
       <workItem from="1550484664594" duration="36041000" />
       <workItem from="1550659168212" duration="39702000" />
-      <workItem from="1550778014550" duration="13954000" />
+      <workItem from="1550778014550" duration="14127000" />
     </task>
+    <task id="LOCAL-00001" summary="Deleted out">
+      <created>1550831635083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550831635084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deleted out">
+      <created>1550831732424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550831732424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -352,10 +349,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89697000" />
+    <option name="totallyTimeSpent" value="89870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -394,6 +392,15 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Deleted out" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted out" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -661,8 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="252">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
