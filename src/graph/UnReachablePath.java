@@ -1,9 +1,9 @@
 package graph;
 
-final class UnReachablePath implements Path {
+final class UnReachablePath extends Path {
 
     @Override
-    public void add(Edge edge) {
+    void add(Edge edge) {
         // noop
     }
 

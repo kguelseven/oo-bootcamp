@@ -1,13 +1,13 @@
 package graph;
 
-public interface Path {
+public abstract class Path {
 
     static Path UNREACHABLE_PATH = new UnReachablePath();
 
-    void add(Edge edge);
+    abstract void add(Edge edge);
 
-    int hopsCount();
+    public abstract int hopsCount();
 
-    double cost();
+    public abstract double cost();
 
 }

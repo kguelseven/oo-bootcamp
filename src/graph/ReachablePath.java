@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-class ReachablePath implements Path {
+class ReachablePath extends Path {
 
     static final Comparator<Path> LEAST_COST = Comparator.comparingDouble(Path::cost);
     static final Comparator<Path> FEWEST_HOPS = Comparator.comparingInt(Path::hopsCount);
@@ -15,7 +15,7 @@ class ReachablePath implements Path {
     }
 
     @Override
-    public void add(Edge edge) {
+    void add(Edge edge) {
         edges.add(edge);
     }
 
