@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25474c2b-91a8-4f96-8e29-6a2027c90a19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo_boot_camp_2019-02-18_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oo_boot_camp_2019-02-18_java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rectangle/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unit/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/unit/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oo_boot_camp_2019-02-18_java/META-INF/oo_boot_camp_2019-02-18_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/oo_boot_camp_2019-02-18_java/META-INF/oo_boot_camp_2019-02-18_java.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,13 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/unit/GraphTest.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -85,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/graph/UnReachablePath.java" />
         <option value="$PROJECT_DIR$/test/unit/RectangleTest.java" />
         <option value="$PROJECT_DIR$/test/unit/GraphTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -101,7 +97,7 @@
     <option name="width" value="1536" />
     <option name="height" value="852" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -159,7 +155,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550831398253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550831695235" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -319,14 +315,11 @@
       <updated>1550484662581</updated>
       <workItem from="1550484664594" duration="36041000" />
       <workItem from="1550659168212" duration="39702000" />
-      <workItem from="1550778014550" duration="13626000" />
+      <workItem from="1550778014550" duration="13954000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GraphTest_(2) - 2019.02.22 at 11h 12m 52s.xml">
-      <configuration name="GraphTest (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GraphTest_(2) - 2019.02.22 at 11h 14m 06s.xml">
       <configuration name="GraphTest (2)" configurationId="JUnit" />
     </history-entry>
@@ -354,17 +347,19 @@
     <history-entry file="GraphTest_(2) - 2019.02.22 at 11h 27m 51s.xml">
       <configuration name="GraphTest (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_oo_boot_camp_2019-02-18_java - 2019.02.22 at 11h 28m 27s.xml">
+      <configuration name="All in oo_boot_camp_2019-02-18_java" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89369000" />
+    <option name="totallyTimeSpent" value="89697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Image Layers" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.18230277" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18230277" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -372,7 +367,7 @@
       <window_info anchor="bottom" id="Tail" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.0846731" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.2540193" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.46838155" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4426581" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -381,7 +376,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.2261522" />
       <window_info anchor="right" id="Key Promoter X" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
@@ -475,9 +470,6 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit/english/Gallon.java" />
     <entry file="file://$PROJECT_DIR$/src/unit/english/Cup.java" />
@@ -603,16 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/ReachablePath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -664,6 +646,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
